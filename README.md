@@ -31,9 +31,7 @@ asmc_sgr.py : main ASMC-SGR code.
 
 asmc_sgr_func.py : auxiliar functions called by asmc_sgr.py.
 
-deesse: algorithm for MPS simulations (version 2016).
-
-lic: folder to place the DeeSse license to be requested to University of Neuchâtel.
+deesse: algorithm for MPS simulations (version 2016). It requires a license from University of Neuchâtel (http://www.randlab.org/research/deesse/).
 
 data_03.mat: tracer concentration and data noise.
 
