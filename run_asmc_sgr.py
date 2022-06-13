@@ -92,7 +92,7 @@ if __name__ == '__main__':
     
     #start_time = time.time()
 
-    q=asmc.Sampler(main_dir=work_dir,CaseStudy=CaseStudy,seq=seq,ndraw=ndraw,parallel_jobs=seq,steps=steps,
+    q=asmc_sgr.Sampler(main_dir=work_dir,CaseStudy=CaseStudy,seq=seq,ndraw=ndraw,parallel_jobs=seq,steps=steps,
                    parallelUpdate = 1,pCR=False,thin=thin,nCR=3,DEpairs=1,pJumpRate_one=0.2,BoundHandling='Fold',
                    lik_sigma_est=False,DoParallel=DoParallel,CESSf_div=CESSf_div,ESSf_div=ESSf_div,AR_min=AR_min,AR_max=AR_max,tune_phi=tune_phi)
     
