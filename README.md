@@ -68,7 +68,7 @@ Velocity.m
 
 ## Citation 
 
-Amaya, M., Linde, N., Laloy, E. (2022). Advances in Water Resources (under review). 
+Amaya, M., Linde, N., & Laloy, E. (2022). Hydrogeological multiple-point statistics inversion by adaptive sequential Monte Carlo. Advances in Water Resources, 166, 104252.
 
 ## License
 
@@ -80,7 +80,7 @@ Macarena Amaya (macarena.amaya@unil.ch)
 
 ## References
 
-Amaya, M., Linde, N., Laloy, E. (2022). Advances in Water Resources (under review). 
+Amaya, M., Linde, N., & Laloy, E. (2022). Hydrogeological multiple-point statistics inversion by adaptive sequential Monte Carlo. Advances in Water Resources, 166, 104252.
 
 Amaya, M., Linde, N., & Laloy, E. (2021). Adaptive sequential Monte Carlo for posterior inference and model selection among complex geological priors. Geophysical Journal International, 226(2), 1220-1238.
 
